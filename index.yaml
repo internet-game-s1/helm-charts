@@ -3,7 +3,7 @@ entries:
   ig-sourced-db:
   - apiVersion: v1
     appVersion: 0.0.2
-    created: "2021-12-28T13:50:51.703602126Z"
+    created: "2021-12-28T13:51:35.627401608Z"
     description: Sourced Event Store Database and Schema via Zalando PostgreSQL Operator
       and SchemaHero
     digest: 8c784090fa3530ac0576707b7433b135395a7f1e64c6200a226ab544cd548d7f
@@ -12,9 +12,20 @@ entries:
     urls:
     - ig-sourced-db-0.0.2.tgz
     version: 0.0.2
+  ig-web3auth-db:
+  - apiVersion: v1
+    appVersion: 0.0.3
+    created: "2021-12-28T13:51:35.627832701Z"
+    description: Web3Auth Database and Schema
+    digest: 62b9a74b7b05073ca10fafb364a47ac8a7ef972f474d5c4f856efaced023c8e3
+    icon: https://camo.githubusercontent.com/9821306cecefe08c6718ab5af6fc2547ee2808a18d958cc82c241654cd2d37da/68747470733a2f2f766572656b69612e636f6d2f5f636f6d706f6e656e74732f696d616765732f6d792d737461636b2f6861737572612d62672e706e67
+    name: ig-web3auth-db
+    urls:
+    - ig-web3auth-db-0.0.3.tgz
+    version: 0.0.3
   sourced-db:
   - apiVersion: v1
-    created: "2021-12-28T13:50:51.704019653Z"
+    created: "2021-12-28T13:51:35.628188453Z"
     description: Sourced Event Store Database and Schema via Zalando PostgreSQL Operator
       and SchemaHero
     digest: a8fafbfd9d3517a62793b9825d91285283bbed9461470bf8e473ce17d26102e8
@@ -26,7 +37,7 @@ entries:
   web3auth-db:
   - apiVersion: v1
     appVersion: 0.0.2
-    created: "2021-12-28T13:50:51.704460998Z"
+    created: "2021-12-28T13:51:35.629098235Z"
     description: Web3Auth Database and Schema
     digest: 9d561f9b396c2a9f1d7e7d40f2edbfa40526b738f14a8f4ebeb021893c1665da
     icon: https://camo.githubusercontent.com/9821306cecefe08c6718ab5af6fc2547ee2808a18d958cc82c241654cd2d37da/68747470733a2f2f766572656b69612e636f6d2f5f636f6d706f6e656e74732f696d616765732f6d792d737461636b2f6861737572612d62672e706e67
@@ -34,4 +45,4 @@ entries:
     urls:
     - web3auth-db-0.0.2.tgz
     version: 0.0.2
-generated: "2021-12-28T13:50:51.703010743Z"
+generated: "2021-12-28T13:51:35.626720002Z"
