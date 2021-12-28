@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  web3auth-db:
+  - apiVersion: v1
+    appVersion: 0.0.2
+    created: "2021-12-28T13:36:29.187473138Z"
+    description: Web3Auth Database and Schema
+    digest: 9d561f9b396c2a9f1d7e7d40f2edbfa40526b738f14a8f4ebeb021893c1665da
+    icon: https://camo.githubusercontent.com/9821306cecefe08c6718ab5af6fc2547ee2808a18d958cc82c241654cd2d37da/68747470733a2f2f766572656b69612e636f6d2f5f636f6d706f6e656e74732f696d616765732f6d792d737461636b2f6861737572612d62672e706e67
+    name: web3auth-db
+    urls:
+    - web3auth-db-0.0.2.tgz
+    version: 0.0.2
+generated: "2021-12-28T13:36:29.18667191Z"
