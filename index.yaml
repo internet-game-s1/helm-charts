@@ -3,7 +3,7 @@ entries:
   cloudflare-external-secret:
   - apiVersion: v1
     appVersion: 0.0.1
-    created: "2021-12-28T17:23:48.996002326Z"
+    created: "2021-12-28T17:24:04.893318089Z"
     description: Cloudflare External Secret
     digest: 2f2e3007d6973d5e87201f4cfcdc8a0adb4a9d328ea67ed8b2d5349d13102b9d
     icon: https://camo.githubusercontent.com/9821306cecefe08c6718ab5af6fc2547ee2808a18d958cc82c241654cd2d37da/68747470733a2f2f766572656b69612e636f6d2f5f636f6d706f6e656e74732f696d616765732f6d792d737461636b2f6861737572612d62672e706e67
@@ -13,8 +13,18 @@ entries:
     version: 0.0.1
   ig-policy-service:
   - apiVersion: v1
+    appVersion: 0.0.4
+    created: "2021-12-28T17:24:04.897408741Z"
+    description: A Helm chart for Kubernetes
+    digest: 7c3c6cf867c9037820b825f745d8746322ad98dde70b11abcaa301bbf5ec18a8
+    icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/d273e09/images/nodejs.png
+    name: ig-policy-service
+    urls:
+    - ig-policy-service-0.0.4.tgz
+    version: 0.0.4
+  - apiVersion: v1
     appVersion: 0.0.3
-    created: "2021-12-28T17:23:48.999831228Z"
+    created: "2021-12-28T17:24:04.89597651Z"
     description: A Helm chart for Kubernetes
     digest: 8acceb2dc427752f87a4ec9d8703fd1ce48febef74e3f1d5e37f619a6bddb4b3
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/d273e09/images/nodejs.png
@@ -24,7 +34,7 @@ entries:
     version: 0.0.3
   - apiVersion: v1
     appVersion: 0.0.2
-    created: "2021-12-28T17:23:48.999056641Z"
+    created: "2021-12-28T17:24:04.894431996Z"
     description: A Helm chart for Kubernetes
     digest: 380dc8fb307a887702e2dfc0bfdddfb3d9d6b1483a5c6dcbc064f549856a043a
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/d273e09/images/nodejs.png
@@ -34,7 +44,7 @@ entries:
     version: 0.0.2
   - apiVersion: v1
     appVersion: 0.0.1
-    created: "2021-12-28T17:23:48.996696445Z"
+    created: "2021-12-28T17:24:04.893754197Z"
     description: A Helm chart for Kubernetes
     digest: 994eb4e6b5c85a283be77483812ea859bc18f483f4fdd6da6d8531ea088e6f4a
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/d273e09/images/nodejs.png
@@ -45,7 +55,7 @@ entries:
   ig-readmodel-db:
   - apiVersion: v1
     appVersion: 0.0.1
-    created: "2021-12-28T17:23:49.000547515Z"
+    created: "2021-12-28T17:24:04.898164276Z"
     description: ig-hasura's Read Model Database and Schema
     digest: 237961e487ba57132ed461893b76da187dcd8c6dd3923b4ca92a050ed9cc21b2
     icon: https://camo.githubusercontent.com/9821306cecefe08c6718ab5af6fc2547ee2808a18d958cc82c241654cd2d37da/68747470733a2f2f766572656b69612e636f6d2f5f636f6d706f6e656e74732f696d616765732f6d792d737461636b2f6861737572612d62672e706e67
@@ -56,7 +66,7 @@ entries:
   ig-sourced-db:
   - apiVersion: v1
     appVersion: 0.0.2
-    created: "2021-12-28T17:23:49.001198691Z"
+    created: "2021-12-28T17:24:04.899242105Z"
     description: Sourced Event Store Database and Schema via Zalando PostgreSQL Operator
       and SchemaHero
     digest: 8c784090fa3530ac0576707b7433b135395a7f1e64c6200a226ab544cd548d7f
@@ -68,7 +78,7 @@ entries:
   ig-web3auth-db:
   - apiVersion: v1
     appVersion: 0.0.3
-    created: "2021-12-28T17:23:49.001957067Z"
+    created: "2021-12-28T17:24:04.899753164Z"
     description: Web3Auth Database and Schema
     digest: 62b9a74b7b05073ca10fafb364a47ac8a7ef972f474d5c4f856efaced023c8e3
     icon: https://camo.githubusercontent.com/9821306cecefe08c6718ab5af6fc2547ee2808a18d958cc82c241654cd2d37da/68747470733a2f2f766572656b69612e636f6d2f5f636f6d706f6e656e74732f696d616765732f6d792d737461636b2f6861737572612d62672e706e67
@@ -78,7 +88,7 @@ entries:
     version: 0.0.3
   sourced-db:
   - apiVersion: v1
-    created: "2021-12-28T17:23:49.002639516Z"
+    created: "2021-12-28T17:24:04.900145969Z"
     description: Sourced Event Store Database and Schema via Zalando PostgreSQL Operator
       and SchemaHero
     digest: a8fafbfd9d3517a62793b9825d91285283bbed9461470bf8e473ce17d26102e8
@@ -90,7 +100,7 @@ entries:
   web3auth-db:
   - apiVersion: v1
     appVersion: 0.0.2
-    created: "2021-12-28T17:23:49.003384132Z"
+    created: "2021-12-28T17:24:04.900602545Z"
     description: Web3Auth Database and Schema
     digest: 9d561f9b396c2a9f1d7e7d40f2edbfa40526b738f14a8f4ebeb021893c1665da
     icon: https://camo.githubusercontent.com/9821306cecefe08c6718ab5af6fc2547ee2808a18d958cc82c241654cd2d37da/68747470733a2f2f766572656b69612e636f6d2f5f636f6d706f6e656e74732f696d616765732f6d792d737461636b2f6861737572612d62672e706e67
@@ -98,4 +108,4 @@ entries:
     urls:
     - web3auth-db-0.0.2.tgz
     version: 0.0.2
-generated: "2021-12-28T17:23:48.995463046Z"
+generated: "2021-12-28T17:24:04.892929629Z"
