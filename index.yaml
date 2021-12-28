@@ -1,9 +1,20 @@
 apiVersion: v1
 entries:
+  cloudflare-external-secret:
+  - apiVersion: v1
+    appVersion: 0.0.1
+    created: "2021-12-28T15:10:20.323255481Z"
+    description: Cloudflare External Secret
+    digest: 2f2e3007d6973d5e87201f4cfcdc8a0adb4a9d328ea67ed8b2d5349d13102b9d
+    icon: https://camo.githubusercontent.com/9821306cecefe08c6718ab5af6fc2547ee2808a18d958cc82c241654cd2d37da/68747470733a2f2f766572656b69612e636f6d2f5f636f6d706f6e656e74732f696d616765732f6d792d737461636b2f6861737572612d62672e706e67
+    name: cloudflare-external-secret
+    urls:
+    - cloudflare-external-secret-0.0.1.tgz
+    version: 0.0.1
   ig-policy-service:
   - apiVersion: v1
     appVersion: 0.0.1
-    created: "2021-12-28T14:30:23.602028949Z"
+    created: "2021-12-28T15:10:20.32378419Z"
     description: A Helm chart for Kubernetes
     digest: 994eb4e6b5c85a283be77483812ea859bc18f483f4fdd6da6d8531ea088e6f4a
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/d273e09/images/nodejs.png
@@ -14,7 +25,7 @@ entries:
   ig-readmodel-db:
   - apiVersion: v1
     appVersion: 0.0.1
-    created: "2021-12-28T14:30:23.602751128Z"
+    created: "2021-12-28T15:10:20.324279586Z"
     description: ig-hasura's Read Model Database and Schema
     digest: 237961e487ba57132ed461893b76da187dcd8c6dd3923b4ca92a050ed9cc21b2
     icon: https://camo.githubusercontent.com/9821306cecefe08c6718ab5af6fc2547ee2808a18d958cc82c241654cd2d37da/68747470733a2f2f766572656b69612e636f6d2f5f636f6d706f6e656e74732f696d616765732f6d792d737461636b2f6861737572612d62672e706e67
@@ -25,7 +36,7 @@ entries:
   ig-sourced-db:
   - apiVersion: v1
     appVersion: 0.0.2
-    created: "2021-12-28T14:30:23.603404608Z"
+    created: "2021-12-28T15:10:20.324737588Z"
     description: Sourced Event Store Database and Schema via Zalando PostgreSQL Operator
       and SchemaHero
     digest: 8c784090fa3530ac0576707b7433b135395a7f1e64c6200a226ab544cd548d7f
@@ -37,7 +48,7 @@ entries:
   ig-web3auth-db:
   - apiVersion: v1
     appVersion: 0.0.3
-    created: "2021-12-28T14:30:23.604189452Z"
+    created: "2021-12-28T15:10:20.32521175Z"
     description: Web3Auth Database and Schema
     digest: 62b9a74b7b05073ca10fafb364a47ac8a7ef972f474d5c4f856efaced023c8e3
     icon: https://camo.githubusercontent.com/9821306cecefe08c6718ab5af6fc2547ee2808a18d958cc82c241654cd2d37da/68747470733a2f2f766572656b69612e636f6d2f5f636f6d706f6e656e74732f696d616765732f6d792d737461636b2f6861737572612d62672e706e67
@@ -47,7 +58,7 @@ entries:
     version: 0.0.3
   sourced-db:
   - apiVersion: v1
-    created: "2021-12-28T14:30:23.60477415Z"
+    created: "2021-12-28T15:10:20.325619762Z"
     description: Sourced Event Store Database and Schema via Zalando PostgreSQL Operator
       and SchemaHero
     digest: a8fafbfd9d3517a62793b9825d91285283bbed9461470bf8e473ce17d26102e8
@@ -59,7 +70,7 @@ entries:
   web3auth-db:
   - apiVersion: v1
     appVersion: 0.0.2
-    created: "2021-12-28T14:30:23.605378182Z"
+    created: "2021-12-28T15:10:20.326052149Z"
     description: Web3Auth Database and Schema
     digest: 9d561f9b396c2a9f1d7e7d40f2edbfa40526b738f14a8f4ebeb021893c1665da
     icon: https://camo.githubusercontent.com/9821306cecefe08c6718ab5af6fc2547ee2808a18d958cc82c241654cd2d37da/68747470733a2f2f766572656b69612e636f6d2f5f636f6d706f6e656e74732f696d616765732f6d792d737461636b2f6861737572612d62672e706e67
@@ -67,4 +78,4 @@ entries:
     urls:
     - web3auth-db-0.0.2.tgz
     version: 0.0.2
-generated: "2021-12-28T14:30:23.600848812Z"
+generated: "2021-12-28T15:10:20.322359968Z"
