@@ -3,7 +3,7 @@ entries:
   cloudflare-external-secret:
   - apiVersion: v1
     appVersion: 0.0.1
-    created: "2021-12-29T08:32:35.538651187Z"
+    created: "2021-12-29T08:35:37.975045316Z"
     description: Cloudflare External Secret
     digest: 2f2e3007d6973d5e87201f4cfcdc8a0adb4a9d328ea67ed8b2d5349d13102b9d
     icon: https://camo.githubusercontent.com/9821306cecefe08c6718ab5af6fc2547ee2808a18d958cc82c241654cd2d37da/68747470733a2f2f766572656b69612e636f6d2f5f636f6d706f6e656e74732f696d616765732f6d792d737461636b2f6861737572612d62672e706e67
@@ -14,7 +14,7 @@ entries:
   ig-dlq-service:
   - apiVersion: v1
     appVersion: 0.0.8
-    created: "2021-12-29T08:32:35.543684595Z"
+    created: "2021-12-29T08:35:37.979169326Z"
     description: A Helm chart for Kubernetes
     digest: f92e0ce3f82b2adb52db53a60fc72aff0310f23ca6330443756cfb0dcd41b087
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/d273e09/images/nodejs.png
@@ -24,7 +24,7 @@ entries:
     version: 0.0.8
   - apiVersion: v1
     appVersion: 0.0.7
-    created: "2021-12-29T08:32:35.543258424Z"
+    created: "2021-12-29T08:35:37.978531923Z"
     description: A Helm chart for Kubernetes
     digest: 9ed68d797f8a5f2b216e7428d081d85801b25aafec5ff07f0ecaa240831a6ab0
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/d273e09/images/nodejs.png
@@ -34,7 +34,7 @@ entries:
     version: 0.0.7
   - apiVersion: v1
     appVersion: 0.0.6
-    created: "2021-12-29T08:32:35.54256675Z"
+    created: "2021-12-29T08:35:37.977924391Z"
     description: A Helm chart for Kubernetes
     digest: 6556deef9e3885bdf0445ea2c44f4941a74fdf2fb1789d46d8f8fa36eecc253a
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/d273e09/images/nodejs.png
@@ -44,7 +44,7 @@ entries:
     version: 0.0.6
   - apiVersion: v1
     appVersion: 0.0.5
-    created: "2021-12-29T08:32:35.541842829Z"
+    created: "2021-12-29T08:35:37.977322435Z"
     description: A Helm chart for Kubernetes
     digest: 2472be14cdbcd41c5556744822d2235441da005a62238e85ad1876503aca3c99
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/d273e09/images/nodejs.png
@@ -54,7 +54,7 @@ entries:
     version: 0.0.5
   - apiVersion: v1
     appVersion: 0.0.4
-    created: "2021-12-29T08:32:35.541283889Z"
+    created: "2021-12-29T08:35:37.976839801Z"
     description: A Helm chart for Kubernetes
     digest: 0dc9594afc86f5da519a00febf92cdf641410527fe94d9acacdb7203e7c40c83
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/d273e09/images/nodejs.png
@@ -64,7 +64,7 @@ entries:
     version: 0.0.4
   - apiVersion: v1
     appVersion: 0.0.3
-    created: "2021-12-29T08:32:35.540663834Z"
+    created: "2021-12-29T08:35:37.976329747Z"
     description: A Helm chart for Kubernetes
     digest: c653dd4fd0ac08e0b5e3c9906e299834b967cd10e51d2a21eb7b82aca3603430
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/d273e09/images/nodejs.png
@@ -74,7 +74,7 @@ entries:
     version: 0.0.3
   - apiVersion: v1
     appVersion: 0.0.2
-    created: "2021-12-29T08:32:35.539688813Z"
+    created: "2021-12-29T08:35:37.975895311Z"
     description: A Helm chart for Kubernetes
     digest: 743c138ec44cc2e6bb12cc541a744904f67f56d62d8f6beddfd66df6d7bc2b16
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/d273e09/images/nodejs.png
@@ -84,7 +84,7 @@ entries:
     version: 0.0.2
   - apiVersion: v1
     appVersion: 0.0.1
-    created: "2021-12-29T08:32:35.539108406Z"
+    created: "2021-12-29T08:35:37.975478501Z"
     description: A Helm chart for Kubernetes
     digest: f1ced91d02610b7c0139dece85f8144af611ad7b8e5d9042d9833edb5d080983
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/d273e09/images/nodejs.png
@@ -95,7 +95,7 @@ entries:
   ig-hasura:
   - apiVersion: v1
     appVersion: 0.0.5
-    created: "2021-12-29T08:32:35.547647866Z"
+    created: "2021-12-29T08:35:37.986230986Z"
     description: A Helm chart for Internet Game's Hasura instance, configs, migrations,
       and job to run migrations
     digest: 710f5d1239ced117a1208fa9804b268d3be7a0aa834df181ab81733b2278514a
@@ -106,7 +106,7 @@ entries:
     version: 0.0.5
   - apiVersion: v1
     appVersion: 0.0.4
-    created: "2021-12-29T08:32:35.546865913Z"
+    created: "2021-12-29T08:35:37.984400519Z"
     description: A Helm chart for Internet Game's Hasura instance, configs, migrations,
       and job to run migrations
     digest: ad12f4d428760844aac39251f3c7732999e6ef2c16fe075e7cc8a59d3b2d2da9
@@ -117,7 +117,7 @@ entries:
     version: 0.0.4
   - apiVersion: v1
     appVersion: 0.0.3
-    created: "2021-12-29T08:32:35.546069435Z"
+    created: "2021-12-29T08:35:37.98278633Z"
     description: A Helm chart for Internet Game's Hasura instance, configs, migrations,
       and job to run migrations
     digest: af97c35f16cfa88753da291a15d5f5f83b0e585994ceee20dcd775b70f8fef51
@@ -128,7 +128,7 @@ entries:
     version: 0.0.3
   - apiVersion: v1
     appVersion: 0.0.2
-    created: "2021-12-29T08:32:35.545265514Z"
+    created: "2021-12-29T08:35:37.981590432Z"
     description: A Helm chart for Internet Game's Hasura instance, configs, migrations,
       and job to run migrations
     digest: 48d30891a49c984fe6c1df18b5519465e7e846d3fc1f221fee5568dee2c1a2cb
@@ -139,7 +139,7 @@ entries:
     version: 0.0.2
   - apiVersion: v1
     appVersion: 0.0.1
-    created: "2021-12-29T08:32:35.544474167Z"
+    created: "2021-12-29T08:35:37.980392384Z"
     description: A Helm chart for Internet Game's Hasura instance, configs, migrations,
       and job to run migrations
     digest: 72a051b4fe1c6b61af57a26865ce17284d7eb0b32c0455b29e0d14a44df31a04
@@ -151,7 +151,7 @@ entries:
   ig-hasura-projections-service:
   - apiVersion: v1
     appVersion: 0.0.9
-    created: "2021-12-29T08:32:35.552898391Z"
+    created: "2021-12-29T08:35:37.993385135Z"
     description: A Helm chart for Kubernetes
     digest: b556d168e27c16d787f935b9022a5a585e38ae5cb98d9d834b4c62d7ab59cf98
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/d273e09/images/nodejs.png
@@ -161,7 +161,7 @@ entries:
     version: 0.0.9
   - apiVersion: v1
     appVersion: 0.0.8
-    created: "2021-12-29T08:32:35.552342481Z"
+    created: "2021-12-29T08:35:37.992803237Z"
     description: A Helm chart for Kubernetes
     digest: edc7a807d9ed6c3f973920edcbc200d6066453d4f4d6ffae711efc4fe5611503
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/d273e09/images/nodejs.png
@@ -171,7 +171,7 @@ entries:
     version: 0.0.8
   - apiVersion: v1
     appVersion: 0.0.7
-    created: "2021-12-29T08:32:35.551747167Z"
+    created: "2021-12-29T08:35:37.992140899Z"
     description: A Helm chart for Kubernetes
     digest: c35d6e910c6f2855d8b18c56b43b3e86cd2c2361059c982a7ccdd765acb95bd6
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/d273e09/images/nodejs.png
@@ -181,7 +181,7 @@ entries:
     version: 0.0.7
   - apiVersion: v1
     appVersion: 0.0.6
-    created: "2021-12-29T08:32:35.551172309Z"
+    created: "2021-12-29T08:35:37.991420637Z"
     description: A Helm chart for Kubernetes
     digest: c61680ed490d4530b10a56e6cbc6de1cf21ba7a4e907029173c8baaf3f195eb4
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/d273e09/images/nodejs.png
@@ -191,7 +191,7 @@ entries:
     version: 0.0.6
   - apiVersion: v1
     appVersion: 0.0.5
-    created: "2021-12-29T08:32:35.550606432Z"
+    created: "2021-12-29T08:35:37.990776245Z"
     description: A Helm chart for Kubernetes
     digest: 45f9cab0c5c6b2c1134e4c01ac5f7c1144218b417dc9f6eeb11478a5e547df51
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/d273e09/images/nodejs.png
@@ -201,7 +201,7 @@ entries:
     version: 0.0.5
   - apiVersion: v1
     appVersion: 0.0.4
-    created: "2021-12-29T08:32:35.549965102Z"
+    created: "2021-12-29T08:35:37.990167861Z"
     description: A Helm chart for Kubernetes
     digest: 9dda10550328cd7b00fa7e6a31997e881d81fe6c1e3dc8a2ce6ec98ed14b3352
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/d273e09/images/nodejs.png
@@ -211,7 +211,7 @@ entries:
     version: 0.0.4
   - apiVersion: v1
     appVersion: 0.0.3
-    created: "2021-12-29T08:32:35.549370175Z"
+    created: "2021-12-29T08:35:37.989518564Z"
     description: A Helm chart for Kubernetes
     digest: c7a0a886d139f7503efee89fb690799fb0645890f45fac5eace7158be5e9fa30
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/d273e09/images/nodejs.png
@@ -221,7 +221,7 @@ entries:
     version: 0.0.3
   - apiVersion: v1
     appVersion: 0.0.2
-    created: "2021-12-29T08:32:35.548798439Z"
+    created: "2021-12-29T08:35:37.988462818Z"
     description: A Helm chart for Kubernetes
     digest: 1bbc3cf09f4c55eea06929287977c722a30aae12f82e844d5641ebae29ec5a30
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/d273e09/images/nodejs.png
@@ -231,7 +231,7 @@ entries:
     version: 0.0.2
   - apiVersion: v1
     appVersion: 0.0.1
-    created: "2021-12-29T08:32:35.548242414Z"
+    created: "2021-12-29T08:35:37.987526673Z"
     description: A Helm chart for Kubernetes
     digest: 2d3b849bff10011c5e664db7cfbcec190f276353ea20deb0c79c90b7e847a78a
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/d273e09/images/nodejs.png
@@ -241,7 +241,7 @@ entries:
     version: 0.0.1
   ig-minigame-leaderboard-model-service:
   - apiVersion: v1
-    created: "2021-12-29T08:32:35.561791461Z"
+    created: "2021-12-29T08:35:38.000118803Z"
     description: A Helm chart for Kubernetes
     digest: e2fcbe0f30ea3ab33efb366538dbc38ef14883e4ecb2beeee9c6751cd4d5c377
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/d273e09/images/nodejs.png
@@ -251,7 +251,7 @@ entries:
     version: 0.1.0-SNAPSHOT
   - apiVersion: v1
     appVersion: 0.0.10
-    created: "2021-12-29T08:32:35.553682878Z"
+    created: "2021-12-29T08:35:37.994239158Z"
     description: A Helm chart for Kubernetes
     digest: fae35160b57f408fe0215afeaf2fb6836e925a86814e89c3a71fcfcf05f5ee8f
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/d273e09/images/nodejs.png
@@ -261,7 +261,7 @@ entries:
     version: 0.0.10
   - apiVersion: v1
     appVersion: 0.0.9
-    created: "2021-12-29T08:32:35.560980974Z"
+    created: "2021-12-29T08:35:37.999252179Z"
     description: A Helm chart for Kubernetes
     digest: a5b00c2673fdeededcc761b0228393800873f188d54659db54ebb974f5c7e828
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/d273e09/images/nodejs.png
@@ -271,7 +271,7 @@ entries:
     version: 0.0.9
   - apiVersion: v1
     appVersion: 0.0.8
-    created: "2021-12-29T08:32:35.560125327Z"
+    created: "2021-12-29T08:35:37.998426809Z"
     description: A Helm chart for Kubernetes
     digest: 233517621afae37ffaff5e5599cccf0c8b33c7a2565c8e56e508ffd4230152f8
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/d273e09/images/nodejs.png
@@ -281,7 +281,7 @@ entries:
     version: 0.0.8
   - apiVersion: v1
     appVersion: 0.0.7
-    created: "2021-12-29T08:32:35.559035416Z"
+    created: "2021-12-29T08:35:37.997557594Z"
     description: A Helm chart for Kubernetes
     digest: 6fd556f63e56a0137b2a9e27093a68b5d6c1fa94936b51c83b7a216ab1455c54
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/d273e09/images/nodejs.png
@@ -291,7 +291,7 @@ entries:
     version: 0.0.7
   - apiVersion: v1
     appVersion: 0.0.6
-    created: "2021-12-29T08:32:35.55725464Z"
+    created: "2021-12-29T08:35:37.996721341Z"
     description: A Helm chart for Kubernetes
     digest: 3edf989bfd2e434161b1614c047915f5aabbd2caf33de4f05aa185af317c33c8
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/d273e09/images/nodejs.png
@@ -301,7 +301,7 @@ entries:
     version: 0.0.6
   - apiVersion: v1
     appVersion: 0.0.5
-    created: "2021-12-29T08:32:35.556097404Z"
+    created: "2021-12-29T08:35:37.995915262Z"
     description: A Helm chart for Kubernetes
     digest: 236aad37cafe21a2d321611ea89d94ac8904f338558cbffb692f26ed02ee2064
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/d273e09/images/nodejs.png
@@ -311,7 +311,7 @@ entries:
     version: 0.0.5
   - apiVersion: v1
     appVersion: 0.0.4
-    created: "2021-12-29T08:32:35.554582213Z"
+    created: "2021-12-29T08:35:37.995064397Z"
     description: A Helm chart for Kubernetes
     digest: e184ea70c0db6e004c061356fd46bb637bb4da507cd957c0787642148ac451e2
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/d273e09/images/nodejs.png
@@ -321,8 +321,18 @@ entries:
     version: 0.0.4
   ig-minigame-model-service:
   - apiVersion: v1
+    appVersion: 0.0.8
+    created: "2021-12-29T08:35:38.008411469Z"
+    description: A Helm chart for Kubernetes
+    digest: 0fc9ae602f1814a144f559881f646e86f88898d7a694bdd15558648290dfd93c
+    icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/d273e09/images/nodejs.png
+    name: ig-minigame-model-service
+    urls:
+    - ig-minigame-model-service-0.0.8.tgz
+    version: 0.0.8
+  - apiVersion: v1
     appVersion: 0.0.7
-    created: "2021-12-29T08:32:35.566933641Z"
+    created: "2021-12-29T08:35:38.007661918Z"
     description: A Helm chart for Kubernetes
     digest: 9d21de22b7d929485747ff941c464fcdf2999a2491f318abe94fbab03a951920
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/d273e09/images/nodejs.png
@@ -332,7 +342,7 @@ entries:
     version: 0.0.7
   - apiVersion: v1
     appVersion: 0.0.6
-    created: "2021-12-29T08:32:35.566200587Z"
+    created: "2021-12-29T08:35:38.006848009Z"
     description: A Helm chart for Kubernetes
     digest: 4988cbadd3266f36bf51a593d9387ee5ca20edd3382c9a2d8e9572b8fc6fc625
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/d273e09/images/nodejs.png
@@ -342,7 +352,7 @@ entries:
     version: 0.0.6
   - apiVersion: v1
     appVersion: 0.0.5
-    created: "2021-12-29T08:32:35.56551235Z"
+    created: "2021-12-29T08:35:38.005749028Z"
     description: A Helm chart for Kubernetes
     digest: 3e4f144c86404bfbfdf3dcbbadc0ae4a301fa639f3946bc0e2e957c02f5875d4
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/d273e09/images/nodejs.png
@@ -352,7 +362,7 @@ entries:
     version: 0.0.5
   - apiVersion: v1
     appVersion: 0.0.4
-    created: "2021-12-29T08:32:35.564798692Z"
+    created: "2021-12-29T08:35:38.003539368Z"
     description: A Helm chart for Kubernetes
     digest: d4e3658c8e80cdbfcf75c3ff73c310463a6c925388790dd3ece6796c002b0e11
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/d273e09/images/nodejs.png
@@ -362,7 +372,7 @@ entries:
     version: 0.0.4
   - apiVersion: v1
     appVersion: 0.0.3
-    created: "2021-12-29T08:32:35.564071076Z"
+    created: "2021-12-29T08:35:38.002682615Z"
     description: A Helm chart for Kubernetes
     digest: 789e3819d9c4601ff42bd75e8571d6e1fefbbbf476133f74f4bde838e688fab8
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/d273e09/images/nodejs.png
@@ -372,7 +382,7 @@ entries:
     version: 0.0.3
   - apiVersion: v1
     appVersion: 0.0.2
-    created: "2021-12-29T08:32:35.56330442Z"
+    created: "2021-12-29T08:35:38.001852685Z"
     description: A Helm chart for Kubernetes
     digest: 0d238d4de75061d3f068fe763bec5b99870beee76e47433ee6906837d805314b
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/d273e09/images/nodejs.png
@@ -382,7 +392,7 @@ entries:
     version: 0.0.2
   - apiVersion: v1
     appVersion: 0.0.1
-    created: "2021-12-29T08:32:35.562577405Z"
+    created: "2021-12-29T08:35:38.001008397Z"
     description: A Helm chart for Kubernetes
     digest: a980eb0e88507c0581ca668008276f3bf3974ec2441cd97b71a96dcbc99fb074
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/d273e09/images/nodejs.png
@@ -393,7 +403,7 @@ entries:
   ig-minigame-score-model-service:
   - apiVersion: v1
     appVersion: 0.0.11
-    created: "2021-12-29T08:32:35.569174618Z"
+    created: "2021-12-29T08:35:38.010695363Z"
     description: A Helm chart for Kubernetes
     digest: ff9238502a24fcd1cab3363186b4b43beb122ff15e998bef27936ab4c4fe6203
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/d273e09/images/nodejs.png
@@ -403,7 +413,7 @@ entries:
     version: 0.0.11
   - apiVersion: v1
     appVersion: 0.0.10
-    created: "2021-12-29T08:32:35.568385924Z"
+    created: "2021-12-29T08:35:38.009989684Z"
     description: A Helm chart for Kubernetes
     digest: cc5c045174c13264898c63dd72cf5999768f4f992b77c3ab7c94e803795b5583
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/d273e09/images/nodejs.png
@@ -413,7 +423,7 @@ entries:
     version: 0.0.10
   - apiVersion: v1
     appVersion: 0.0.9
-    created: "2021-12-29T08:32:35.576886475Z"
+    created: "2021-12-29T08:35:38.018258657Z"
     description: A Helm chart for Kubernetes
     digest: 83b5145660ef7bb1d8b167eedbca2c84b0c5e17dc47a497dabac84409aec0ada
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/d273e09/images/nodejs.png
@@ -423,7 +433,7 @@ entries:
     version: 0.0.9
   - apiVersion: v1
     appVersion: 0.0.8
-    created: "2021-12-29T08:32:35.576202396Z"
+    created: "2021-12-29T08:35:38.017036915Z"
     description: A Helm chart for Kubernetes
     digest: 0767526cf69a244d3f3b0b1e6ddbab0df621d3c105993c6dcfe8f8b3cbcc91fa
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/d273e09/images/nodejs.png
@@ -433,7 +443,7 @@ entries:
     version: 0.0.8
   - apiVersion: v1
     appVersion: 0.0.7
-    created: "2021-12-29T08:32:35.575404145Z"
+    created: "2021-12-29T08:35:38.01579576Z"
     description: A Helm chart for Kubernetes
     digest: e41b2edd5df585ab48ac4479776c7f487a4ff76e7d974a80d884de464a491c15
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/d273e09/images/nodejs.png
@@ -443,7 +453,7 @@ entries:
     version: 0.0.7
   - apiVersion: v1
     appVersion: 0.0.6
-    created: "2021-12-29T08:32:35.573456363Z"
+    created: "2021-12-29T08:35:38.01467897Z"
     description: A Helm chart for Kubernetes
     digest: 384a942f92017e9ce12af6610e89e0cbfc2a20b98b1a2ed76c293c48a0ec13ca
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/d273e09/images/nodejs.png
@@ -453,7 +463,7 @@ entries:
     version: 0.0.6
   - apiVersion: v1
     appVersion: 0.0.5
-    created: "2021-12-29T08:32:35.572014622Z"
+    created: "2021-12-29T08:35:38.013953375Z"
     description: A Helm chart for Kubernetes
     digest: 068907a30af71be6c80a8c68597b09d14656e65f90362fa02c061102e5522128
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/d273e09/images/nodejs.png
@@ -463,7 +473,7 @@ entries:
     version: 0.0.5
   - apiVersion: v1
     appVersion: 0.0.4
-    created: "2021-12-29T08:32:35.571335815Z"
+    created: "2021-12-29T08:35:38.0130108Z"
     description: A Helm chart for Kubernetes
     digest: a6db8300759e67e41ae8cb2bfbae413b67936f58340ae4f02696c3b597c7a324
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/d273e09/images/nodejs.png
@@ -473,7 +483,7 @@ entries:
     version: 0.0.4
   - apiVersion: v1
     appVersion: 0.0.3
-    created: "2021-12-29T08:32:35.570639566Z"
+    created: "2021-12-29T08:35:38.012310182Z"
     description: A Helm chart for Kubernetes
     digest: 75c7e3fcb3f3da82c1f7d85a8f050c58b4015bcefd9e4398a39d7818ccfe21e4
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/d273e09/images/nodejs.png
@@ -483,7 +493,7 @@ entries:
     version: 0.0.3
   - apiVersion: v1
     appVersion: 0.0.2
-    created: "2021-12-29T08:32:35.569900527Z"
+    created: "2021-12-29T08:35:38.011567022Z"
     description: A Helm chart for Kubernetes
     digest: 223db2939bc67e247fe3e2d29738bea1d7e5a03b5ee12636deb2784003931c88
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/d273e09/images/nodejs.png
@@ -493,7 +503,7 @@ entries:
     version: 0.0.2
   - apiVersion: v1
     appVersion: 0.0.1
-    created: "2021-12-29T08:32:35.567671943Z"
+    created: "2021-12-29T08:35:38.009254665Z"
     description: A Helm chart for Kubernetes
     digest: 1a0ded47e93a7f56d5b01b8a036cb5875bb46a79cb000ec67cbeead13dbe15d5
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/d273e09/images/nodejs.png
@@ -504,7 +514,7 @@ entries:
   ig-policy-service:
   - apiVersion: v1
     appVersion: 0.0.10
-    created: "2021-12-29T08:32:35.577830686Z"
+    created: "2021-12-29T08:35:38.0197059Z"
     description: A Helm chart for Kubernetes
     digest: 617c122fcd2dbbc081cfeac78c85cd0fa199b9137071096acaed67dc1f30e869
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/d273e09/images/nodejs.png
@@ -514,7 +524,7 @@ entries:
     version: 0.0.10
   - apiVersion: v1
     appVersion: 0.0.9
-    created: "2021-12-29T08:32:35.58082176Z"
+    created: "2021-12-29T08:35:38.026674352Z"
     description: A Helm chart for Kubernetes
     digest: 937444b00047619a7958c8b3c5aa3e971e2aa60523ee87f400e5891cab5527ef
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/d273e09/images/nodejs.png
@@ -524,7 +534,7 @@ entries:
     version: 0.0.9
   - apiVersion: v1
     appVersion: 0.0.8
-    created: "2021-12-29T08:32:35.580412342Z"
+    created: "2021-12-29T08:35:38.025991062Z"
     description: A Helm chart for Kubernetes
     digest: d2700763963334a8db0974cd7ad40f93587d62140b146df4bd2dc484432bb850
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/d273e09/images/nodejs.png
@@ -534,7 +544,7 @@ entries:
     version: 0.0.8
   - apiVersion: v1
     appVersion: 0.0.6
-    created: "2021-12-29T08:32:35.580002908Z"
+    created: "2021-12-29T08:35:38.02493794Z"
     description: A Helm chart for Kubernetes
     digest: ab30e9955e31640a83dfe1c35628072d629475d5a1b57088b890115b3385ffef
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/d273e09/images/nodejs.png
@@ -544,7 +554,7 @@ entries:
     version: 0.0.6
   - apiVersion: v1
     appVersion: 0.0.5
-    created: "2021-12-29T08:32:35.579556583Z"
+    created: "2021-12-29T08:35:38.024211898Z"
     description: A Helm chart for Kubernetes
     digest: c3b0a82fe0dfff9dcc91d12c671efba77fa288ccafb7439af5ebfa3f166973c2
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/d273e09/images/nodejs.png
@@ -554,7 +564,7 @@ entries:
     version: 0.0.5
   - apiVersion: v1
     appVersion: 0.0.4
-    created: "2021-12-29T08:32:35.579149782Z"
+    created: "2021-12-29T08:35:38.023369475Z"
     description: A Helm chart for Kubernetes
     digest: 7c3c6cf867c9037820b825f745d8746322ad98dde70b11abcaa301bbf5ec18a8
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/d273e09/images/nodejs.png
@@ -564,7 +574,7 @@ entries:
     version: 0.0.4
   - apiVersion: v1
     appVersion: 0.0.3
-    created: "2021-12-29T08:32:35.578713377Z"
+    created: "2021-12-29T08:35:38.02234242Z"
     description: A Helm chart for Kubernetes
     digest: 8acceb2dc427752f87a4ec9d8703fd1ce48febef74e3f1d5e37f619a6bddb4b3
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/d273e09/images/nodejs.png
@@ -574,7 +584,7 @@ entries:
     version: 0.0.3
   - apiVersion: v1
     appVersion: 0.0.2
-    created: "2021-12-29T08:32:35.578245817Z"
+    created: "2021-12-29T08:35:38.021368867Z"
     description: A Helm chart for Kubernetes
     digest: 380dc8fb307a887702e2dfc0bfdddfb3d9d6b1483a5c6dcbc064f549856a043a
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/d273e09/images/nodejs.png
@@ -584,7 +594,7 @@ entries:
     version: 0.0.2
   - apiVersion: v1
     appVersion: 0.0.1
-    created: "2021-12-29T08:32:35.577420769Z"
+    created: "2021-12-29T08:35:38.019025279Z"
     description: A Helm chart for Kubernetes
     digest: 994eb4e6b5c85a283be77483812ea859bc18f483f4fdd6da6d8531ea088e6f4a
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/d273e09/images/nodejs.png
@@ -595,7 +605,7 @@ entries:
   ig-readmodel-db:
   - apiVersion: v1
     appVersion: 0.0.1
-    created: "2021-12-29T08:32:35.581351138Z"
+    created: "2021-12-29T08:35:38.027401614Z"
     description: ig-hasura's Read Model Database and Schema
     digest: 237961e487ba57132ed461893b76da187dcd8c6dd3923b4ca92a050ed9cc21b2
     icon: https://camo.githubusercontent.com/9821306cecefe08c6718ab5af6fc2547ee2808a18d958cc82c241654cd2d37da/68747470733a2f2f766572656b69612e636f6d2f5f636f6d706f6e656e74732f696d616765732f6d792d737461636b2f6861737572612d62672e706e67
@@ -606,7 +616,7 @@ entries:
   ig-sourced-db:
   - apiVersion: v1
     appVersion: 0.0.2
-    created: "2021-12-29T08:32:35.581761107Z"
+    created: "2021-12-29T08:35:38.027987292Z"
     description: Sourced Event Store Database and Schema via Zalando PostgreSQL Operator
       and SchemaHero
     digest: 8c784090fa3530ac0576707b7433b135395a7f1e64c6200a226ab544cd548d7f
@@ -618,7 +628,7 @@ entries:
   ig-todo-model-service:
   - apiVersion: v1
     appVersion: 0.0.4
-    created: "2021-12-29T08:32:35.589887142Z"
+    created: "2021-12-29T08:35:38.031169386Z"
     description: A Helm chart for Kubernetes
     digest: f8dcab766e0c97804712db00db39d675175463edf2f57859f000d34c4d473676
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/d273e09/images/nodejs.png
@@ -628,7 +638,7 @@ entries:
     version: 0.0.4
   - apiVersion: v1
     appVersion: 0.0.3
-    created: "2021-12-29T08:32:35.589052998Z"
+    created: "2021-12-29T08:35:38.030445982Z"
     description: A Helm chart for Kubernetes
     digest: df78e65feda66622b578fe3e018968fadae3d43e6bdadff67cfd451080e83d7a
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/d273e09/images/nodejs.png
@@ -638,7 +648,7 @@ entries:
     version: 0.0.3
   - apiVersion: v1
     appVersion: 0.0.2
-    created: "2021-12-29T08:32:35.588083269Z"
+    created: "2021-12-29T08:35:38.029681209Z"
     description: A Helm chart for Kubernetes
     digest: bd438332e7de9c8d85cb54fec162c0d68487dc04a05978878428bbb51a8ee113
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/d273e09/images/nodejs.png
@@ -648,7 +658,7 @@ entries:
     version: 0.0.2
   - apiVersion: v1
     appVersion: 0.0.1
-    created: "2021-12-29T08:32:35.587032491Z"
+    created: "2021-12-29T08:35:38.028774915Z"
     description: A Helm chart for Kubernetes
     digest: 8af0c2f8005e304336c1e90bdeb489a8ba7e0c2b48c4892c9b689fb4c1d3b938
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/d273e09/images/nodejs.png
@@ -659,7 +669,7 @@ entries:
   ig-web3auth-db:
   - apiVersion: v1
     appVersion: 0.0.3
-    created: "2021-12-29T08:32:35.590304349Z"
+    created: "2021-12-29T08:35:38.031616264Z"
     description: Web3Auth Database and Schema
     digest: 62b9a74b7b05073ca10fafb364a47ac8a7ef972f474d5c4f856efaced023c8e3
     icon: https://camo.githubusercontent.com/9821306cecefe08c6718ab5af6fc2547ee2808a18d958cc82c241654cd2d37da/68747470733a2f2f766572656b69612e636f6d2f5f636f6d706f6e656e74732f696d616765732f6d792d737461636b2f6861737572612d62672e706e67
@@ -670,7 +680,7 @@ entries:
   ig-web3auth-service:
   - apiVersion: v1
     appVersion: 0.0.7
-    created: "2021-12-29T08:32:35.597095917Z"
+    created: "2021-12-29T08:35:38.035460345Z"
     description: A Helm chart to run a web3 auth service to issue JWTs
     digest: c431a12337f4a1b880daf66c7f5f713ad2aba716080b6ac5e5fe1d22609ede38
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/d273e09/images/nodejs.png
@@ -680,7 +690,7 @@ entries:
     version: 0.0.7
   - apiVersion: v1
     appVersion: 0.0.6
-    created: "2021-12-29T08:32:35.596116035Z"
+    created: "2021-12-29T08:35:38.034693396Z"
     description: A Helm chart to run a web3 auth service to issue JWTs
     digest: cc817056492e8f5b5048e59212bed0b570f65440d81bfb542721173b25aa7045
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/d273e09/images/nodejs.png
@@ -690,7 +700,7 @@ entries:
     version: 0.0.6
   - apiVersion: v1
     appVersion: 0.0.5
-    created: "2021-12-29T08:32:35.595056982Z"
+    created: "2021-12-29T08:35:38.033958214Z"
     description: A Helm chart to run a web3 auth service to issue JWTs
     digest: bc91370d9c44319fae6236e321bc26222896643070ea9223a1c9615f32cf918c
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/d273e09/images/nodejs.png
@@ -700,7 +710,7 @@ entries:
     version: 0.0.5
   - apiVersion: v1
     appVersion: 0.0.4
-    created: "2021-12-29T08:32:35.593402929Z"
+    created: "2021-12-29T08:35:38.033191596Z"
     description: A Helm chart to run a web3 auth service to issue JWTs
     digest: 562dfcc8b46456f7e39ab7ec579e5449222399a963dec07f42b77cc4884191f0
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/d273e09/images/nodejs.png
@@ -710,7 +720,7 @@ entries:
     version: 0.0.4
   - apiVersion: v1
     appVersion: 0.0.3
-    created: "2021-12-29T08:32:35.591757431Z"
+    created: "2021-12-29T08:35:38.032317287Z"
     description: A Helm chart to run a web3 auth service to issue JWTs
     digest: b17a33bc59fcb06723c325bfe66f1dca9f7cb4f40ab7e4a34b11ec3b2250b2c6
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/d273e09/images/nodejs.png
@@ -721,7 +731,7 @@ entries:
   internet-game:
   - apiVersion: v1
     appVersion: 0.0.7
-    created: "2021-12-29T08:32:35.599974829Z"
+    created: "2021-12-29T08:35:38.038515328Z"
     description: A Helm chart for the internet game web app
     digest: 7ff3ef461f214b34faaec53be23870bf63d14660a2bf8a8ac18a3fd8394c25f1
     icon: https://raw.githubusercontent.com/cdfoundation/artwork/master/jenkinsx/icon/color/jenkinsx-icon-color.png
@@ -731,7 +741,7 @@ entries:
     version: 0.0.7
   - apiVersion: v1
     appVersion: 0.0.6
-    created: "2021-12-29T08:32:35.599613686Z"
+    created: "2021-12-29T08:35:38.038134706Z"
     description: A Helm chart for the internet game web app
     digest: 52529e5e08d46c8daebb5671fdee156e00924535b4bcb7077b990072c4ab66dd
     icon: https://raw.githubusercontent.com/cdfoundation/artwork/master/jenkinsx/icon/color/jenkinsx-icon-color.png
@@ -741,7 +751,7 @@ entries:
     version: 0.0.6
   - apiVersion: v1
     appVersion: 0.0.5
-    created: "2021-12-29T08:32:35.59925153Z"
+    created: "2021-12-29T08:35:38.037730904Z"
     description: A Helm chart for the internet game web app
     digest: 02bfda909e0c39e5e3c3ac8ab653d2ec4651edd6690959d6acaf8a55cffe8148
     icon: https://raw.githubusercontent.com/cdfoundation/artwork/master/jenkinsx/icon/color/jenkinsx-icon-color.png
@@ -751,7 +761,7 @@ entries:
     version: 0.0.5
   - apiVersion: v1
     appVersion: 0.0.4
-    created: "2021-12-29T08:32:35.598867456Z"
+    created: "2021-12-29T08:35:38.037296024Z"
     description: A Helm chart for the internet game web app
     digest: 4ed7470f841445ed5d668a6ddc9e8fa9cbb4385c819fc8d0f6d9452355bd1421
     icon: https://raw.githubusercontent.com/cdfoundation/artwork/master/jenkinsx/icon/color/jenkinsx-icon-color.png
@@ -761,7 +771,7 @@ entries:
     version: 0.0.4
   - apiVersion: v1
     appVersion: 0.0.3
-    created: "2021-12-29T08:32:35.598417236Z"
+    created: "2021-12-29T08:35:38.036612533Z"
     description: A Helm chart for the internet game web app
     digest: a88bba738cc492cd40116317b2da628c91c54cb9d8c8f160da494b8ad17ceedf
     icon: https://raw.githubusercontent.com/cdfoundation/artwork/master/jenkinsx/icon/color/jenkinsx-icon-color.png
@@ -771,7 +781,7 @@ entries:
     version: 0.0.3
   - apiVersion: v1
     appVersion: 0.0.2
-    created: "2021-12-29T08:32:35.598043425Z"
+    created: "2021-12-29T08:35:38.036243275Z"
     description: A Helm chart for the internet game web app
     digest: c34d16389b927da8ef7d8afe10b4e0ff4d1a5289ff9f57c465a102d31d6554a2
     icon: https://raw.githubusercontent.com/cdfoundation/artwork/master/jenkinsx/icon/color/jenkinsx-icon-color.png
@@ -781,7 +791,7 @@ entries:
     version: 0.0.2
   - apiVersion: v1
     appVersion: 0.0.1
-    created: "2021-12-29T08:32:35.597557783Z"
+    created: "2021-12-29T08:35:38.035880799Z"
     description: A Helm chart for the internet game web app
     digest: 2f52fc2ecbea02668897db58a06ffd6ad284e39a3d0aa5520a85027d6e4e0780
     icon: https://raw.githubusercontent.com/cdfoundation/artwork/master/jenkinsx/icon/color/jenkinsx-icon-color.png
@@ -791,7 +801,7 @@ entries:
     version: 0.0.1
   sourced-db:
   - apiVersion: v1
-    created: "2021-12-29T08:32:35.600357081Z"
+    created: "2021-12-29T08:35:38.038981065Z"
     description: Sourced Event Store Database and Schema via Zalando PostgreSQL Operator
       and SchemaHero
     digest: a8fafbfd9d3517a62793b9825d91285283bbed9461470bf8e473ce17d26102e8
@@ -803,7 +813,7 @@ entries:
   web3auth-db:
   - apiVersion: v1
     appVersion: 0.0.2
-    created: "2021-12-29T08:32:35.600773599Z"
+    created: "2021-12-29T08:35:38.039939035Z"
     description: Web3Auth Database and Schema
     digest: 9d561f9b396c2a9f1d7e7d40f2edbfa40526b738f14a8f4ebeb021893c1665da
     icon: https://camo.githubusercontent.com/9821306cecefe08c6718ab5af6fc2547ee2808a18d958cc82c241654cd2d37da/68747470733a2f2f766572656b69612e636f6d2f5f636f6d706f6e656e74732f696d616765732f6d792d737461636b2f6861737572612d62672e706e67
@@ -814,7 +824,7 @@ entries:
   web3auth-service:
   - apiVersion: v1
     appVersion: 0.0.2
-    created: "2021-12-29T08:32:35.602241049Z"
+    created: "2021-12-29T08:35:38.042530498Z"
     description: A Helm chart to run a web3 auth service to issue JWTs
     digest: 17891f2904cdd4c187fe790288c1f27bbb8672b6082341aaa0afd500f005f4b5
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/d273e09/images/nodejs.png
@@ -824,7 +834,7 @@ entries:
     version: 0.0.2
   - apiVersion: v1
     appVersion: 0.0.1
-    created: "2021-12-29T08:32:35.601509045Z"
+    created: "2021-12-29T08:35:38.04151083Z"
     description: A Helm chart to run a web3 auth service to issue JWTs
     digest: 4af0877d11881e6879409f1a159fe2deb0b2b87d7d7638836750c44258f5c997
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/d273e09/images/nodejs.png
@@ -832,4 +842,4 @@ entries:
     urls:
     - web3auth-service-0.0.1.tgz
     version: 0.0.1
-generated: "2021-12-29T08:32:35.538222259Z"
+generated: "2021-12-29T08:35:37.974609099Z"
